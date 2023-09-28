@@ -17,6 +17,25 @@ public enum First {
     Borsch,
     Ear,
     BorschtDoublePortionMeat,
-    CabbageSoup
+    CabbageSoup,
+    Onionsoup,
+    Tomatosoup,
+    Mushroomcreamsoup,
+    Chickenbroth,
+    Fishsoup,
+    Misosoup,
+    Vegetablesoup,
+    Goulashsoup,
+    Cheesesoup,
+    Peasup,
+    Pumpkinsoup,
+    Zucchinisoup,
+    Beetroot,
+    Milksoup,
+    SauerkrautSoup,
+    Borsch,
+    Ear,
+    Potatosoup,
+    Vegetealssoup
 
 }
