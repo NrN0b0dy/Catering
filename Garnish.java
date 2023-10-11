@@ -12,18 +12,6 @@ public enum Garnish {
     Сornporridge,
     Buckwheat,
     Corn,
-        Risotto,
-    Macncheese,
-    Grilledvegetables,
-    Frenchfries,
-    Mashedpotatoes,
-    Boiledpotatoes,
-    Rice,
-    Pasta,
-    Monasterystyleporridge,
-    Bulgur,
-    Сornporridge,
-    Buckwheat,
     Vegetablestew,
     Potato
 }
